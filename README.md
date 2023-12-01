@@ -18,5 +18,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 bondPlotter is free for anyone who wants to use it, and will always be.
 
 ## TODO
-Support for other file formats such as FHI-AIMS' "geometry.in" is on the way!
+Support for other file formats such as FHI-AIMS' "geometry.in" is on the way.
 Go science!
